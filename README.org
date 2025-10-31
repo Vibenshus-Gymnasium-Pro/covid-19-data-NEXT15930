@@ -1,0 +1,3 @@
+#+title: Covid-19 Data
+
+Se [[./covid19data.ipynb][notebook filen]].
